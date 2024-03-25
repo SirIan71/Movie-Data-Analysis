@@ -3,7 +3,7 @@
 # Project Overview
 
 For this project, I used exploratory data analysis to generate insights for a business stakeholder from Viusasa.
-Business Problem
+# Business Problem
 Viusasa new movie studio aims to establish itself as a leading player in the entertainment industry by producing high-quality and commercially successful movies. However, the studio faces the challenge of navigating the complexities of the movie market to ensure its productions resonate with audiences and generate significant revenue.
 
 ## Objectives
